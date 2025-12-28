@@ -1,1 +1,10 @@
-Project documentation, reports, and IEEE paper drafts will be maintained in this folder.
+## Project Status
+Currently in planning and design phase.
+Dataset selection and algorithm design in progress.
+
+## Repository Structure
+- data/       : Dataset and data description
+- notebooks/  : Experiments and analysis
+- models/     : Saved models
+- docs/       : Documentation and reports
+
