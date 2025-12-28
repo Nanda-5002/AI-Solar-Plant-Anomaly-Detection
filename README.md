@@ -9,9 +9,10 @@ using machine learning techniques applied to solar plant data.
 Status:
 Project is currently in the initial design and planning phase.
 
-Domain:
-AI / Machine Learning / Renewable Energy
+## Project Structure
 
-Team:
-Final-year group project
+- data/       : Dataset description
+- notebooks/  : Model implementation and experiments
+- models/     : Model evaluation summary
+- docs/       : Project documentation and presentation
 
